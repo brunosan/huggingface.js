@@ -135,6 +135,11 @@ export const MODEL_LIBRARIES_UI_ELEMENTS = {
 		repoUrl: "https://github.com/fudan-generative-vision/champ",
 		countDownloads: `path:"champ/motion_module.pth"`,
 	},
+	clay: {
+		prettyLabel: "Clay",
+		repoName: "made-with-clay/Clay",
+		repoUrl: "https://github.com/Clay-foundation/model",
+		countDownloads: `path_extension:"ckpt"`,
 	chat_tts: {
 		prettyLabel: "ChatTTS",
 		repoName: "ChatTTS",
